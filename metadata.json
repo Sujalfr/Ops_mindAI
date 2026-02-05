@@ -1,0 +1,5 @@
+{
+  "name": "OpsMind AI",
+  "description": "An enterprise-ready Retrieval Augmented Generation (RAG) system for internal document knowledge retrieval with hallucination prevention and citation tracking.",
+  "requestFramePermissions": []
+}
