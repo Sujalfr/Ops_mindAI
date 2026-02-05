@@ -57,7 +57,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
             onClick={onStart}
             className="px-5 py-2 bg-slate-900 text-white text-sm font-bold rounded-xl hover:bg-indigo-600 transition-all shadow-lg shadow-slate-900/10 active:scale-95"
           >
-            Launch Platform
+            Launch Platforms
           </button>
         </div>
       </nav>
