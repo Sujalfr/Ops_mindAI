@@ -1,5 +1,4 @@
-# Open_mindsAI
-# 🧠 OpsMind AI  
+# 🧠 OpsMind AI  [🚀 Live Demo – OpsMind AI](https://ops-mind-ai-swart.vercel.app/)
 ### Context-Aware Corporate Knowledge Assistant (RAG-Based)
 
 OpsMind AI is a **Retrieval Augmented Generation (RAG)** powered enterprise knowledge assistant designed to help employees instantly find **accurate, verifiable answers** from internal corporate documents such as **HR policies, refund rules, IT security guidelines, and operational SOPs**.
